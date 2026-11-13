@@ -1,0 +1,10 @@
+node_modules
+.next
+.env
+.env*.local
+storage/
+!storage/.gitkeep
+test-results
+playwright-report
+*.tsbuildinfo
+next-env.d.ts
