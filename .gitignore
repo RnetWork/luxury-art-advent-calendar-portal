@@ -2,8 +2,8 @@ node_modules
 .next
 .env
 .env*.local
-storage/
-!storage/.gitkeep
+/storage/
+!/storage/.gitkeep
 test-results
 playwright-report
 *.tsbuildinfo
